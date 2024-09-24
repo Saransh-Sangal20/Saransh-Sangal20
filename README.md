@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saransh-Sangal20
+- 👋 Hi, I’m Saransh Sangal
 - 👀 I’m interested in Web Development & Machine Learning
 - 🌱 I’m currently learning Frontend Development and DSA with C++
 - 💞️ I’m looking to collaborate on ...
