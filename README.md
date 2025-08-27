@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/saransh-sangal-177344296/
 - 😄 Pronouns: (He/Him)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a gamer, like reading Mangas, watching Anime, and listening music
 
 <!---
 Saransh-Sangal20/Saransh-Sangal20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
