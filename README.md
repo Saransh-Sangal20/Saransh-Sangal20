@@ -1,12 +1,24 @@
-- 👋 Hi, I’m Saransh Sangal
-- 👀 I’m interested in Web Development & Machine Learning
-- 🌱 I’m currently learning Frontend Development and DSA with C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...https://www.linkedin.com/in/saransh-sangal-177344296/
-- 😄 Pronouns: (He/Him)
-- ⚡ Fun fact: I am a gamer, like reading Mangas, watching Anime, and listening music
+# 👋 Hi, I’m Saransh Sangal  
 
-<!---
-Saransh-Sangal20/Saransh-Sangal20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍💻 About Me  
+- 💡 Passionate about **Web Development** and **Machine Learning**  
+- 🌱 Currently learning **Full Stack Development** and **Data Structures & Algorithms (C++)**  
+- 🎯 Aspiring developer eager to contribute to impactful projects  
+- 😄 Pronouns: **He/Him**  
+
+## 🤝 Let’s Collaborate  
+I’m looking to collaborate on:  
+- Open-source projects in **Web Development**  
+- Beginner-friendly **Machine Learning** projects  
+- Innovative ideas that combine **tech & creativity**  
+
+## 📫 Connect with Me  
+- LinkedIn: [Saransh Sangal](https://www.linkedin.com/in/saransh-sangal-177344296/)  
+
+## ⚡ Fun Facts  
+- 🎮 Gamer at heart  
+- 📖 Manga enthusiast & Anime watcher  
+- 🎵 Love listening to music. 
+
+---
+⭐️ _Feel free to check out my repositories and connect with me!_
