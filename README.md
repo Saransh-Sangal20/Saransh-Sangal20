@@ -4,7 +4,11 @@
 - 💡 Passionate about **Web Development** & **Machine Learning**  
 - 🌱 Currently learning **Full Stack Development** and **DSA with C++**  
 - 🎯 Aspiring developer eager to contribute to impactful projects  
-- 😄 Pronouns: **He/Him**  
+- 😄 Pronouns: **He/Him**
+
+---
+
+[![An image of @saranshsangal20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saranshsangal20)](https://holopin.io/@saranshsangal20)
 
 ---
 
