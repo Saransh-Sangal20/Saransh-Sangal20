@@ -8,10 +8,6 @@
 
 ---
 
-[![An image of @saranshsangal20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saranshsangal20)](https://holopin.io/@saranshsangal20)
-
----
-
 ## 🚀 Tech Stack  
 
 **Programming Languages:**  
