@@ -64,10 +64,9 @@
 
 ---
 
-## 📊 GitHub Stats
-![Saransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saransh-Sangal20&show_icons=true&theme=radical) 
+## 📊 GitHub Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh-Sangal20&layout=compact&theme=radical)
-
+![Saransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saransh-Sangal20&show_icons=true&theme=radical) 
 
 ---
 
